@@ -9,7 +9,7 @@ require (
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
 	github.com/alecthomas/participle v0.2.1
 	github.com/aliyun/aliyun-oss-go-sdk v0.0.0-20190307165228-86c17b95fcd5
-	github.com/aws/aws-sdk-go v1.20.21
+	github.com/aws/aws-sdk-go v1.33.0
 	github.com/bcicen/jstream v0.0.0-20190220045926-16c1f8af81c2
 	github.com/cheggaaa/pb v1.0.28
 	github.com/coredns/coredns v1.4.0
@@ -22,7 +22,7 @@ require (
 	github.com/fatih/color v1.7.0
 	github.com/fatih/structs v1.1.0
 	github.com/go-ole/go-ole v1.2.4 // indirect
-	github.com/go-sql-driver/mysql v1.4.1
+	github.com/go-sql-driver/mysql v1.5.0
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/gorilla/handlers v1.4.0
 	github.com/gorilla/mux v1.7.0
@@ -55,7 +55,7 @@ require (
 	github.com/nats-io/stan.go v0.4.5
 	github.com/ncw/directio v1.0.5
 	github.com/nsqio/go-nsq v1.0.7
-	github.com/pkg/errors v0.8.1
+	github.com/pkg/errors v0.9.1
 	github.com/pkg/profile v1.3.0
 	github.com/prometheus/client_golang v0.9.3-0.20190127221311-3c4408c8b829
 	github.com/rjeczalik/notify v0.9.2
